@@ -1,0 +1,1 @@
+the objective of this project is to make a software that is running on an esp32 and that understand the DMX512 protocol to receive information from a console and react to it.
